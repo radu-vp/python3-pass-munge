@@ -1,4 +1,4 @@
-# P@ssw0rd_mvng3_T001.py
+# P@ssw0rd_mvng3_T001
 
 ## Description
 
